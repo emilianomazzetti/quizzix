@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyDKzxL0UTYHtcZuVlPAD5PMaPTYQvH8HwY",
+  "authDomain": "gioco-multi-utente.firebaseapp.com",
+  "databaseURL": "https://gioco-multi-utente-default-rtdb.europe-west1.firebasedatabase.app",
+  "projectId": "gioco-multi-utente",
+  "storageBucket": "gioco-multi-utente.firebasestorage.app",
+  "messagingSenderId": "96378360867",
+  "appId": "1:96378360867:web:8c8572fb20dde5fbff4d96",
+  "measurementId": "G-GK38HFD87S"
+}

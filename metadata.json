@@ -1,0 +1,6 @@
+{
+  "name": "FlipQuiz - Quiz Collaborativo in Classe",
+  "description": "Piattaforma didattica stile PanQuiz: gli studenti creano le domande, il docente proietta e avvia la sfida live con 13 tipologie di gioco interattive, punteggi e 3 diti più veloci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

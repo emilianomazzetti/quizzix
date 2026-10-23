@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FlipQuiz - Reindirizzamento...</title>
+    <script>
+      // Single Page App redirect for GitHub Pages
+      (function() {
+        var path = window.location.pathname;
+        var search = window.location.search;
+        var hash = window.location.hash;
+        // Redirect back to root index preserving query and hash
+        var parts = path.split('/').filter(Boolean);
+        var repo = parts.length > 0 ? '/' + parts[0] + '/' : '/';
+        window.location.replace(repo + (search ? search : '') + (hash ? hash : ''));
+      })();
+    </script>
+  </head>
+  <body style="background: #0f172a; color: #f8fafc; font-family: sans-serif; display: flex; align-items: center; justify-content: center; min-height: 100vh;">
+    <p>Reindirizzamento a FlipQuiz in corso...</p>
+  </body>
+</html>
